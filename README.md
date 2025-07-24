@@ -56,7 +56,9 @@ Automate data updates via API.
 Implement predictive modeling to forecast crime trends.
 
 🙋 About the Author
+
 Sergio Castaneda
+
 Data Enthusiast | Python & Tableau
 
 
